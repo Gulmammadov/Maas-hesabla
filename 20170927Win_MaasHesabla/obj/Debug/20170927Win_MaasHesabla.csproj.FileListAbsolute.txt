@@ -1,0 +1,9 @@
+E:\MPD_20172018\20170927Win_MaasHesabla\20170927Win_MaasHesabla\bin\Debug\20170927Win_MaasHesabla.exe.config
+E:\MPD_20172018\20170927Win_MaasHesabla\20170927Win_MaasHesabla\bin\Debug\20170927Win_MaasHesabla.exe
+E:\MPD_20172018\20170927Win_MaasHesabla\20170927Win_MaasHesabla\bin\Debug\20170927Win_MaasHesabla.pdb
+E:\MPD_20172018\20170927Win_MaasHesabla\20170927Win_MaasHesabla\obj\Debug\20170927Win_MaasHesabla.csprojResolveAssemblyReference.cache
+E:\MPD_20172018\20170927Win_MaasHesabla\20170927Win_MaasHesabla\obj\Debug\_20170927Win_MaasHesabla.Form1.resources
+E:\MPD_20172018\20170927Win_MaasHesabla\20170927Win_MaasHesabla\obj\Debug\_20170927Win_MaasHesabla.Properties.Resources.resources
+E:\MPD_20172018\20170927Win_MaasHesabla\20170927Win_MaasHesabla\obj\Debug\20170927Win_MaasHesabla.csproj.GenerateResource.Cache
+E:\MPD_20172018\20170927Win_MaasHesabla\20170927Win_MaasHesabla\obj\Debug\20170927Win_MaasHesabla.exe
+E:\MPD_20172018\20170927Win_MaasHesabla\20170927Win_MaasHesabla\obj\Debug\20170927Win_MaasHesabla.pdb
